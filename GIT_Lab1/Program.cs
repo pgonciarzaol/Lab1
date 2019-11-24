@@ -10,6 +10,7 @@ namespace GIT_Lab1
     {
         static void Main(string[] args)
         {
+            gfsdgsdgdsg fsdfsgf
         }
     }
 }
